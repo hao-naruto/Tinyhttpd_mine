@@ -1,4 +1,4 @@
-Tinthttped
+Tinthttpd
 
   This software is copyright 1999 by J. David Blackstone.  Permission
 is granted to redistribute and modify this software under the terms of
